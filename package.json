@@ -1,0 +1,19 @@
+{
+  "name": "fun_libs_api",
+  "version": "1.0.0",
+  "description": "An API which handles all the backend for the Fun Libs 2 app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Asgeir Albretsen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7"
+  }
+}
